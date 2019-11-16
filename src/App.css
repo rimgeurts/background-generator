@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Monster-title {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+}
