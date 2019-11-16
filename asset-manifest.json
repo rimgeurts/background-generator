@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/background-generator/static/css/main.c99e092d.chunk.css",
+    "main.js": "/background-generator/static/js/main.31b61e2c.chunk.js",
+    "main.js.map": "/background-generator/static/js/main.31b61e2c.chunk.js.map",
+    "runtime-main.js": "/background-generator/static/js/runtime-main.4baad8dd.js",
+    "runtime-main.js.map": "/background-generator/static/js/runtime-main.4baad8dd.js.map",
+    "static/js/2.f833121f.chunk.js": "/background-generator/static/js/2.f833121f.chunk.js",
+    "static/js/2.f833121f.chunk.js.map": "/background-generator/static/js/2.f833121f.chunk.js.map",
+    "index.html": "/background-generator/index.html",
+    "precache-manifest.b87b816bd38febd28a8953ea52429e03.js": "/background-generator/precache-manifest.b87b816bd38febd28a8953ea52429e03.js",
+    "service-worker.js": "/background-generator/service-worker.js",
+    "static/css/main.c99e092d.chunk.css.map": "/background-generator/static/css/main.c99e092d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4baad8dd.js",
+    "static/js/2.f833121f.chunk.js",
+    "static/css/main.c99e092d.chunk.css",
+    "static/js/main.31b61e2c.chunk.js"
+  ]
+}
